@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="SampleProject/SampleProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleProject/Program.cs">
+    <Files>
+      <File FileName="SampleProject/Program.cs" Line="8" Column="21" />
+      <File FileName="SampleProject/MainWindow.cs" Line="34" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

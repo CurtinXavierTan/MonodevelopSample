@@ -1,0 +1,6 @@
+/home/xavier/Desktop/SampleProject/SampleProject/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/xavier/Desktop/SampleProject/SampleProject/obj/x86/Debug/SampleProject.gtk-gui.gui.stetic
+/home/xavier/Desktop/SampleProject/SampleProject/bin/Debug/SampleProject.pdb
+/home/xavier/Desktop/SampleProject/SampleProject/bin/Debug/SampleProject.exe
+/home/xavier/Desktop/SampleProject/SampleProject/obj/x86/Debug/SampleProject.exe
+/home/xavier/Desktop/SampleProject/SampleProject/obj/x86/Debug/SampleProject.pdb
